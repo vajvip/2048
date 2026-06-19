@@ -5,6 +5,8 @@ A lightweight browser implementation of the classic `2048` puzzle game using onl
 ## Demo
 Open `index.html` in your browser to play.
 
+Live demo: https://2048yz.netlify.app/
+
 ## Features
 
 - Classic 4x4 tile grid gameplay
